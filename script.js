@@ -42,7 +42,7 @@ const makeModal = (linkType) => {
     case 5:
       modalTitle.textContent = "Afspraak";
       beschrijving.textContent =
-        "Alle behandelingen zijn op afspraak. Een afspraak duurd een uur en vinden plaats in mijn praktijk. Prijs is vanaf 42,50 euro per uur. Stoelmassage kan zowel gegeven worden in mijn pratijk of op een (kantoor) locatie en duurt een half uur.";
+        "Alle behandelingen zijn op afspraak. Een afspraak duurt een uur en vinden plaats in mijn praktijk. Prijs is vanaf 47,50 euro per uur. Stoelmassage kan zowel gegeven worden in mijn pratijk of op een (kantoor) locatie en duurt een half uur.";
       break;
     case 6:
       modalTitle.textContent = "Wat kunt u verwachten?";
